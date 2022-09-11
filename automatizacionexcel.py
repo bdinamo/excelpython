@@ -3,7 +3,7 @@ import pandas as pd
 import sys
 #import 
 
-df = pd.read_excel("C:\\Users\\brian\\OneDrive\\Escritorio\\ExcelPython\\Test.xlsx")
+df = pd.read_excel(https://docs.google.com/spreadsheets/d/1QHAg5qui1Tc63UPpMs0gtHvjfcKQgHgU/edit?usp=sharing&ouid=112947421864170453710&rtpof=true&sd=true")
 bd = ["Acetoclor","Diclorvos","Diquat"]
 salida = []
 
